@@ -1,7 +1,6 @@
-
 ### 👨🏻‍💻 &nbsp;About Me
 
-
+Hello there I am Dragoș.
 
 <img alt="Night Coding" src="https://github.com/dragosbratu/dragosbratu/blob/main/resources/Night-Coding.gif" align="left"/>
 
@@ -42,12 +41,9 @@
 <a href="https://www.youtube.com/channel/UCkjh7kSU-2W-IN_RstC4XMw/featured" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Dragoș Bratu Laboratory" height="20" width="20" /></a>
 </p>
 
-Hello there I am Dragoș.
 
-<p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=dragosbratu&show_icons=true alt=Dragoș />
-</p>
-![](https://komarev.com/ghpvc/?username=dragosbratu)
+
+
 
 
 
