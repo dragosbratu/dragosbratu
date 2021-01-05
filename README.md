@@ -1,7 +1,4 @@
 
-<img alt="Night Coding" src="./rescources/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Dragoș!</h2>
-
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 
@@ -33,8 +30,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/dragosbratu"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.dragosbratu.com"><img src="https://img.shields.io/badge/-www.dragosbratu.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/dragosbratu"><img src="https://img.shields.io/badge/-Drago%C8%99%20Bratu%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dragos.bratu@unitbv.ro"><img src="https://img.shields.io/badge/-dragos.bratu@unitbv.ro-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
@@ -48,7 +45,7 @@
 Hello there I am Dragoș.
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=elangosundar&show_icons=true alt=Elangovan />
+	<img src=https://github-readme-stats.vercel.app/api?username=dragosbratu&show_icons=true alt=Dragoș />
 </p>
 ![](https://komarev.com/ghpvc/?username=dragosbratu)
 
