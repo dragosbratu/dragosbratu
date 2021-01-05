@@ -1,0 +1,1 @@
+Here resources will lay!
